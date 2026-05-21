@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Blue Moon of Kentucky
+
+This log tracks the cryptographic history and versioning for the song **Blue Moon of Kentucky** (blue-moon-of-kentucky).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T04:24:19.027775 | `v1` | `90f810f774489444cb499b3fee8b456d48e8d8cfa4294ca5c42e6b2e0782ada0` | `d81923bc6e01cba966745f58473d08e6934e8a99f11690f775d84b5fbc3b25af` | `2026-05-22_blue-moon-of-kentucky-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

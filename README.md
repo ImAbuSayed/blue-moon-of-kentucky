@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/blue-moon-of-kentucky/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Blue Moon of Kentucky](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-moon-of-kentucky/) |
+| **Get License** | [Obtain a Music License for Blue Moon of Kentucky](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-moon-of-kentucky/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `90f810f774489444cb499b3fee8b456d48e8d8cfa4294ca5c42e6b2e0782ada0` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
