@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/blue-moon-of-kentucky/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Blue Moon of Kentucky](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-moon-of-kentucky/) |
+| **Get License** | [Get a Licensing Quote for Blue Moon of Kentucky](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-moon-of-kentucky/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Neon signs are flashing on your golden skin tonight
+> Got the engine roaring and my hunger burning bright
+> I can feel your rhythm pulling me completely in
+> This is where the magic and the wild desires begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
